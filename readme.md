@@ -22,7 +22,7 @@ provides functionality to send emails, and allows users to flag important emails
 
     ```bash
     git clone https://github.com/imkAslam/email-system-casestudy-task
-    cd email-system
+    cd email-system-casestudy-task
     ```
 
 2. Install the dependencies:
