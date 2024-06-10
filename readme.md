@@ -21,7 +21,7 @@ provides functionality to send emails, and allows users to flag important emails
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/email-system.git
+    git clone https://github.com/imkAslam/email-system-casestudy-task
     cd email-system
     ```
 
